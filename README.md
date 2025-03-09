@@ -42,8 +42,7 @@ Hi there! 👋 I'm **Jordy Morales**, a **Senior Full-Stack Developer** with ove
 ---
 
 ### 📌 Featured Projects
-🚀 **[Linktree Clone](https://github.com/2jsdev/personal-portfolio)** - Scalable and maintainable personal link manager built with **Next.js, Prisma, and Auth.js**  
-💡 **[Smart Answers Assist](https://github.com/2jsdev)** - Enhanced conversation editor using **React, Redux, and Quill.js**  
+🚀 **[Wookielink](https://github.com/2jsdev/wookielink)** - Scalable and maintainable personal link manager built with **Next.js, Prisma, and Auth.js**  
 
 ---
 
